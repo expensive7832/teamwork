@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-image: url(bk2.jpg);
+    background-size:contain;
+    background-position: ;
+
+}
+
+.sign-up{
+    width: 16.75rem;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+
+
+}
+
+.sign-up h1{
+    color: #585;
+    margin-bottom: 1.50rem;
+    font-family: monospace;
+}
+
+.inpt{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 9px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+
+button{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.btnsign{
+    background-color: #1c8adb;
+}
+
+.btnsign:hover{
+    background-color: #fff;
+    color: #1c8adb;
+    font-family: cursive;
+    font-weight: 100;
+}
+
+
+.gmail-btn{
+    background-color: #21afde;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.or{
+    background: #fff;
+    width: 1.88rem;
+    margin: -18px auto 10px;
+}
+
+img{
+    width: 4.5rem;
+    margin-top: -1rem;
+}
+
+
+.gnd{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 9px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+
+
+.Country{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 9px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+
